@@ -1,3 +1,1 @@
-"print("hello ajay")" 
-"print("my name is madala")" 
-
+"print("this is project 1")" 
