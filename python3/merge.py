@@ -1,0 +1,1 @@
+print("ajay kumar")print("venkata ajay kumar")
